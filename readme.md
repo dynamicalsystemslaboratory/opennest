@@ -1,7 +1,6 @@
 **Title** *OpenNest: A modular experimental setup for long term studies of collective behavior in ants*\
 **Authors** Darryl Linardi, Michael Napoli, Roxy Nadim, Simon Garnier, Maurizio Porfiri\
-**Presented At** *Animal Behavior Live, 2025*\
-**Contact Information** Maurizio Porfiri (mporfiri@nyu.edu)
+**Presented At** *Animal Behavior Live, 2025*
 
 ---
 
